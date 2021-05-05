@@ -1,0 +1,36 @@
+var _____WB$wombat$assign$function_____ = function(name) {return (self._wb_wombat && self._wb_wombat.local_init && self._wb_wombat.local_init(name)) || self[name]; };
+if (!self.__WB_pmw) { self.__WB_pmw = function(obj) { this.__WB_source = obj; return this; } }
+{
+  let window = _____WB$wombat$assign$function_____("window");
+  let self = _____WB$wombat$assign$function_____("self");
+  let document = _____WB$wombat$assign$function_____("document");
+  let location = _____WB$wombat$assign$function_____("location");
+  let top = _____WB$wombat$assign$function_____("top");
+  let parent = _____WB$wombat$assign$function_____("parent");
+  let frames = _____WB$wombat$assign$function_____("frames");
+  let opener = _____WB$wombat$assign$function_____("opener");
+
+var YMaps={"location":{"longitude":174.762963,"latitude":-36.851747,"zoom":7,"city":"Окленд","country":"Новая Зеландия"},"Module":{"CORE":"core","HOTSPOTS":"hotspots","TRAFFIC":"traffic"}};(function(d){var b={"fullVersion":"0.0.45","counterShare":false,"loadByRequire":false,"token":"2172abd4d418ace59b3d9346d998a823","versionPath":"http://web.archive.org/web/20190607202053/https://api-maps.yandex.ru/1.1/","mapTiles":"http://web.archive.org/web/20190607202053/https://vec0%d.maps.yandex.net/tiles?l=map&v=19.06.07-0&%c&lang=ru_RU","satTiles":"http://web.archive.org/web/20190607202053/https://sat0%d.maps.yandex.net/tiles?l=sat&v=3.472.0&%c&lang=ru_RU","sklTiles":"http://web.archive.org/web/20190607202053/https://vec0%d.maps.yandex.net/tiles?l=skl&v=19.06.07-0&%c&lang=ru_RU","coverageService":"http://web.archive.org/web/20190607202053/https://api-maps.yandex.ru/services/coverage/","geoxmlService":"http://web.archive.org/web/20190607202053/https://api-maps.yandex.ru/services/geoxml/","routeService":"http://web.archive.org/web/20190607202053/https://api-maps.yandex.ru/services/route/","searchService":"http://web.archive.org/web/20190607202053/https://api-maps.yandex.ru/services/search/","printerApi":"http://web.archive.org/web/20190607202053/https://static-maps.yandex.ru/","statCounter":"http://web.archive.org/web/20190607202053/https://yandex.ru/clck/","mapsUrl":"http://web.archive.org/web/20190607202053/https://yandex.ru/maps/","trafficHost":"http://web.archive.org/web/20190607202053/https://core-jams-rdr.maps.yandex.net/","trafficArchiveHost":"http://web.archive.org/web/20190607202053/https://core-jams-rdr-hist.maps.yandex.net/"};var i=document;var g=i.getElementsByTagName("head")[0];var e;var f=[];var a;d.load=function(o){if(typeof o!=="function"){o=arguments[1]}if(a==="ready"){if(o){o()}return}if(o){f.push(o)}if(!a){a="loading";var m=navigator.userAgent.toLowerCase();var k=m.indexOf("msie")!==-1&&m.indexOf("opera")===-1;var j=k&&!(i.documentMode>=8);var l=b.versionPath+"_YMaps";var n="?v="+b.fullVersion;h(l+(j?"-ie":"")+".css"+n);c(l+".js"+n)}};d.onLoad=function(j){j(d,b);a="ready";while(f.length){f.shift()()}};function c(k){if(!e){var j=i.createElement("script");j.charset="utf-8";j.src=k;g.insertBefore(j,g.firstChild)}else{i.write('<script type="text/javascript" charset="utf-8" src="'+k+'"><\/script>')}}function h(j){if(!e){var k=i.createElement("link");k.rel="stylesheet";k.href=j;g.insertBefore(k,g.firstChild)}else{i.write('<link rel="stylesheet" href="'+j+'"/>')}}if(!b.loadByRequire){e=1;d.load();e=0}})(YMaps);
+
+}
+/*
+     FILE ARCHIVED ON 20:20:53 Jun 07, 2019 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 10:16:49 May 05, 2021.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  CDXLines.iter: 67.633 (3)
+  exclusion.robots: 0.211
+  exclusion.robots.policy: 0.196
+  captures_list: 585.345
+  PetaboxLoader3.resolve: 201.633
+  RedisCDXSource: 53.78
+  LoadShardBlock: 232.163 (3)
+  load_resource: 253.892
+  PetaboxLoader3.datanode: 189.503 (4)
+  esindex: 0.016
+*/
