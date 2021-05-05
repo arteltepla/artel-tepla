@@ -38,7 +38,7 @@ h2{
 	margin-bottom: 30px;
 }
 header {
-	background-image: url(/img/header_bg.jpg);
+	background-image: url('img/header_bg.jpg');
 	background-repeat: no-repeat;
 	background-position: 50% 0%;
 }
@@ -86,7 +86,7 @@ ul.navbar-nav li {
 	height: 160px;
 	display: block;
 	margin: 0 auto;
-	background-image: url(/img/work_img.png);
+	background-image: url('img/work_img.png');
 	background-repeat: no-repeat;
 	cursor: pointer;
 	margin-bottom: 10px;
@@ -105,7 +105,7 @@ ul.navbar-nav li {
 	display: none;
 }
 .work .work-element:hover .img{
-	background-image: url(/img/work_img_hover.png);
+	background-image: url('img/work_img_hover.png');
 }
 .work .work-element:hover div.work-element-img-hover{
 	display: block;
@@ -120,7 +120,7 @@ ul.navbar-nav li {
 	margin-bottom: 85px;
 }
 .grey-block{
-	background-image: url(/img/grey-bg.png);
+	background-image: url('img/grey-bg.png');
 	-webkit-box-shadow: inset 0px 3px 16px 0px rgba(0, 0, 0, 0.05);
 	-moz-box-shadow:    inset 0px 3px 16px 0px rgba(0, 0, 0, 0.05);
 	box-shadow:         inset 0px 3px 16px 0px rgba(0, 0, 0, 0.05);
@@ -198,22 +198,22 @@ h3 {
 	margin-bottom: 14px;
 }
 .heating-systems {
-	background-image: url(/img/heating-systems.png);
+	background-image: url('img/heating-systems.png');
 	background-repeat: no-repeat;
 	background-position: 0% 50%;
 }
 .water-supply {
-	background-image: url(/img/water-supply.png);
+	background-image: url('img/water-supply.png');
 	background-repeat: no-repeat;
 	background-position: 0% 50%;
 }
 .design-works {
-	background-image: url(/img/design-works.png);
+	background-image: url('img/design-works.png');
 	background-repeat: no-repeat;
 	background-position: 0% 50%;
 }
 .sewerage {
-	background-image: url(/img/sewerage.png);
+	background-image: url('img/sewerage.png');
 	background-repeat: no-repeat;
 	background-position: 0% 50%;
 }
@@ -269,7 +269,7 @@ li {
     list-style-type: none;
 }
 ul li {
-	background: url("/img/li.png") no-repeat left 5px;
+	background: url('img/li.png') no-repeat left 5px;
 	padding-left: 25px;
 	margin-bottom: 15px;
 }
@@ -292,7 +292,7 @@ ul {
 	border: 2px solid #2e8fc9;
 	padding: 0px 10px;
 	border-radius: 7px;
-	/*background-image: url(/img/number-projects.png);*/
+	/*background-image: url('img/number-projects.png');*/
 	background-repeat: no-repeat;
 	background-size: 100% 100%;
 }
@@ -347,12 +347,12 @@ ul {
 	color: #4b4b4b;
 	padding-left: 30px;
 	font-size: 20px;
-	background-image: url(/img/phone2.png);
+	background-image: url('img/phone2.png');
 	background-repeat: no-repeat;
 	background-position: 0% 5px;
 }
 .adres {
-	background-image: url(/img/adres.png);
+	background-image: url('img/adres.png');
 	background-repeat: no-repeat;
 	font-size: 14px;
 	color: #4b4b4b;
@@ -362,7 +362,7 @@ ul {
 	background-position: 0% 50%;
 }
 .email {
-	background-image: url(/img/email.png);
+	background-image: url('img/email.png');
 	background-repeat: no-repeat;
 	font-size: 14px;
 	color: #4b4b4b;
@@ -523,7 +523,7 @@ ul {
 		box-shadow: none;
 	}
 	.phone {
-		background-image: url(/img/phone.png);
+		background-image: url('img/phone.png');
 		background-repeat: no-repeat;
 		background-position: 0% 5px;
 		margin-right: -25px;
