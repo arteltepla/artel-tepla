@@ -30,14 +30,14 @@
   opacity: 1; }
 
 .pswp__button, .pswp__button--arrow--left:before, .pswp__button--arrow--right:before {
-  background: url(/web/20180104194729im_/http://artel-tepla.ru/js/default-skin/default-skin.png) 0 0 no-repeat;
+  background: url(/js/default-skin/default-skin.png) 0 0 no-repeat;
   background-size: 264px 88px;
   width: 44px;
   height: 44px; }
 
 @media (-webkit-min-device-pixel-ratio: 1.1), (min-resolution: 105dpi), (min-resolution: 1.1dppx) {
   .pswp--svg .pswp__button, .pswp--svg .pswp__button--arrow--left:before, .pswp--svg .pswp__button--arrow--right:before {
-    background-image: url(/web/20180104194729im_/http://artel-tepla.ru/js/default-skin/default-skin.svg); }
+    background-image: url(/js/default-skin/default-skin.svg); }
 
   .pswp--svg .pswp__button--arrow--left, .pswp--svg .pswp__button--arrow--right {
     background: none; }
@@ -255,7 +255,7 @@ a.pswp__share--download:hover {
 .pswp__preloader--active {
   opacity: 1; }
   .pswp__preloader--active .pswp__preloader__icn {
-    background: url(/web/20180104194729im_/http://artel-tepla.ru/js/default-skin/preloader.gif) 0 0 no-repeat; }
+    background: url(/js/default-skin/preloader.gif) 0 0 no-repeat; }
 
 .pswp--css_animation .pswp__preloader--active {
   opacity: 1; }
@@ -388,24 +388,3 @@ a.pswp__share--download:hover {
 
 .pswp--minimal--dark .pswp__top-bar {
   background: none; }
-
-/*
-     FILE ARCHIVED ON 19:47:29 Jan 04, 2018 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 10:16:58 May 05, 2021.
-     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
-
-     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
-     SECTION 108(a)(3)).
-*/
-/*
-playback timings (ms):
-  captures_list: 250.163
-  exclusion.robots: 0.136
-  exclusion.robots.policy: 0.125
-  RedisCDXSource: 0.63
-  esindex: 0.01
-  LoadShardBlock: 226.67 (3)
-  PetaboxLoader3.datanode: 228.456 (4)
-  CDXLines.iter: 20.094 (3)
-  load_resource: 35.261
-*/
